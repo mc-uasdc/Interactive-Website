@@ -1,0 +1,93 @@
+body {
+    background-image: url("https://previews.123rf.com/images/svetlanawse/svetlanawse1606/svetlanawse160600014/59988319-colorful-background-for-design-in-pastel-colors-to-obtain-an-invitation-greeting-card-website-abstra.jpg");
+}
+
+.main1 {
+    justify-content: center;
+}
+
+.sub1 {
+    background-color: white;
+    color: #F75D91;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.small1 {
+    display: flex;
+    justify-content: center;
+}
+
+.pic1 {
+    width: 300px;
+}
+
+.pic2 {
+    width: 383px;
+}
+
+.photos1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sub2 {
+    background-color: #F5CBA7;
+    font-family: 'Dancing Script', cursive;
+    color: #7FB3D5;
+    text-align: center;
+}
+
+.pic3 {
+    width: 370px;
+}
+
+.pic4 {
+    width: 338px;
+}
+
+.photo2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.small2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main2 {
+    display: none;
+}
+
+.main3 {
+    display: none;
+
+}
+
+.sub3 {
+    background-color: #D7BDE2;
+    font-family: 'Dancing Script', cursive;
+    color: #E33C5F;
+    text-align: center;
+}
+
+.photo3 {}
+
+.main4 {
+    display: none;
+}
+
+.sub4 {
+    background-color: #A3E4D7;
+    font-family: 'Dancing Script', cursive;
+    color: #5499C7;
+    text-align: center;
+}
+
+.end {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 338px;
+}
